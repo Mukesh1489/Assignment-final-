@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Contact Information</title>
+
+</head>
+
+<body style="background-color: green">
+
+  <h1>Contact Information</h1>
+
+  <h2>Name</h2>
+
+  <p>Mukesh</p>
+
+  <h2>Email Address</h2>
+
+  <p>massmukesh148@gmail.com</p>
+
+  <h2>Phone Number</h2>
+
+  <p>+91 99768257**</p>
+
+</body>
+
+</html>
+
